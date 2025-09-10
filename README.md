@@ -59,10 +59,17 @@ I'm a passionate **Software Developer** with expertise in full-stack development
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -125,6 +132,7 @@ I'm a passionate **Software Developer** with expertise in full-stack development
 
 ### Technical Excellence
 - 🎯 **Full-Stack Expertise**: Proficient in 15+ programming languages and modern frameworks
+- 🤖 **AI & Machine Learning**: Expert in TensorFlow, PyTorch, OpenAI, and modern AI frameworks
 - 🚀 **Cloud Mastery**: Certified experience with AWS, Azure, and Google Cloud Platform
 - 🔧 **DevOps Leadership**: Expert in containerization, orchestration, and CI/CD automation
 - 📱 **Cross-Platform Development**: Skilled in web, mobile, and desktop application development
@@ -132,11 +140,11 @@ I'm a passionate **Software Developer** with expertise in full-stack development
 ### Industry Recognition
 - 🏅 **Agile Practitioner**: Certified in Scrum and Agile development methodologies
 - 🔒 **Security-First Approach**: Implementing secure coding practices and vulnerability assessments
-- 📊 **Performance Optimization**: Delivered 40%+ performance improvements in production systems
+- 📊 **Performance Optimization**: Delivered 70%+ performance improvements in production systems
 - 🌐 **Scalable Architecture**: Designed systems handling 1M+ concurrent users
 
 ### Continuous Learning
-- 📚 **Technology Trends**: Staying current with latest industry trends and emerging technologies
+- 📚 **Technology Trends**: Staying current with the latest industry trends and emerging technologies
 - 🎓 **Professional Development**: Regular participation in tech conferences and workshops
 - 🤝 **Mentorship**: Guiding junior developers and contributing to open-source projects
 - 💡 **Innovation**: Implementing cutting-edge solutions and best practices
