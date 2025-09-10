@@ -9,7 +9,7 @@
 I'm a passionate **Software Developer** with expertise in full-stack development. I love building innovative solutions and turning ideas into reality through code.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+Architect;DevOps+Engineer;Mobile+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Software+Developer;Cloud+Architect;DevOps+Engineer" alt="Typing SVG" />
 </div>
 
 ## 💻 Professional Tech Stack
