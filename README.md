@@ -171,7 +171,7 @@ I'm a passionate **Software Developer** with expertise in full-stack development
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   ">
     
-  💬 <strong>Let's collaborate and build something amazing together with Coddit64!</strong>
+  💬 <strong>Let's collaborate and build something amazing together Coddit64!</strong>
   
   </div>
 </div>
